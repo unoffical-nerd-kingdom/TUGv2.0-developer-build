@@ -5,9 +5,9 @@ The TUGv2.0 developer build from early 2017
 # TUGv2.0-developer-build
 > TUGv2.0 is a game inspired by Minecraft mods like FTB, Thaumcraft and tekkit. It is a surival/ sandbox game and was the second attempt at making TUG in a another engine then DTX11.Like minecraft, you build things, mine things, and explore a unqiue world like you have never seen before!!!
 
+
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -23,11 +23,11 @@ TUGv2.0 was going to be a Free 2 play, Thanks to IGG, who invested in them, they
 * the eternus engine
 opengl
 c++
-Jave  
+Java  
 coming soon
 
 ## Setup
-down the zip file, and extract it anywhere,  the batch files are what complies it together, please not some do not work for some reason
+download the zip file, and extract it anywhere,  the batch files are what complies it together and runs it, please note: the build does not have any type of past testing that we know off, so we can not help you yet until others test it more and tell us the state of what runs and what is broken
 
 ## Features
 many dev tools and assets that were not complete at the time of this build
