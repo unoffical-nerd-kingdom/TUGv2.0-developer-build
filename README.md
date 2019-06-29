@@ -44,3 +44,6 @@ Officially the TUGv2.0 game was abandoned at the end of 2017,  This dev build ca
 the backers, the players and others of the community that came back to help us, and everyone else that worked on TUG and TUGv2.0, I and others shared this because we were inspired by all the work that was done on it, and how much of a shame no one got to see and play it, well until now!!
 
 created by INO and the NK team, you can find more information at www.reddit.com/r/tug
+
+## Contact 
+please email the user for any inquires at Redakdal@gmail.com or join our discord :https://discordapp.com/invite/yEujpyX
