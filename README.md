@@ -16,7 +16,7 @@ The TUGv2.0 developer build from early 2017
 * [Contact](#contact)
 
 ## General info
-TUGv2.0 was going to be a Free 2 play, Thanks to IGG, who invested in them, they remade the origanlly TUG game in open in jail. It was going to replace TUG on steam, but in mid 2017 IGG sent them back to revelopment for a failed internal text. This is the Developer build that was given to Dev and modders in early 2017.  Thisischarlock shared it with the community andour goal is to bring all of it on github, to encourage others who want to finish or mess with it, or if your backer, to be able to play the game they never got to play . This is a Developer build only, and has many bugs and problem due to it being not finished
+TUGv2.0 was going to be a Free 2 play, Thanks to IGG, who invested in them, they remade the origanlly TUG game in opengl. It was going to replace TUG on steam, but in mid 2017 IGG sent them back to redevelopment for a failed internal test. This is the Developer build that was given to Devs and modders in early 2017. A backer of that closed build shared it with the community and our goal is to bring all of it on github, and to encourage others who want to finish or mess with it, or if your backer, to be able to play the game you were promised.  BEFORE DOWNLOADING This is a Developer build only, and has many bugs and problem due to it being not finished
 
 
 ## Technologies
