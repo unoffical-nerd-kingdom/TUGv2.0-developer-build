@@ -39,7 +39,7 @@ To-do list:
 *add all files, that cannot be uploaded more then 15 or so files at once
 
 ## Status
-Official the TUGv2.0 game was abandoned at the end of 2017, but this dev build can control and modify the game in more ways then one and while Nerdkingdom is offically gone, we hope that by releasing this, the devs work won't be forgotton and their work can be seen and shared as intended
+Officially the TUGv2.0 game was abandoned at the end of 2017,  This dev build can control and modify the game in more ways then one and while Nerdkingdom is offically gone, we hope that by releasing this, their work won't be forgotton and can be continued or  added upon 
 ## Inspiration
 the backers, the players and others of the community that came back to help us, and everyone else that worked on TUG and TUGv2.0, I and others shared this because we were inspired by all the work that was done on it, and how much of a shame no one got to see and play it, well until now!!
 
