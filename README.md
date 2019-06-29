@@ -36,11 +36,11 @@ To-do list:
 * requirements- opengl 4.3 or later
 * add more detail whats in the build
 *add people to team
-*add all files, that cannot upload mroe then 15 or so at once
+*add all files, that cannot be uploaded more then 15 or so files at once
 
 ## Status
-Official the TUGv2.0 game was abandoned at the end of 2017, but this dev build can control and modify the game in more ways one and while Nerdkingdom is offically gone, we hope that by releasing this, the devs work won't be forgotton
+Official the TUGv2.0 game was abandoned at the end of 2017, but this dev build can control and modify the game in more ways then one and while Nerdkingdom is offically gone, we hope that by releasing this, the devs work won't be forgotton and their work can be seen and shared as intended
 ## Inspiration
-the backers and people of the community that came back, and will never stop fighting to until TUG is complete in some forum
-## Contact
+the backers, the players and others of the community that came back to help us, and everyone else that worked on TUG and TUGv2.0, I and others shared this because we were inspired by all the work that was done on it, and how much of a shame no one got to see and play it, well until now!!
+
 created by INO and the NK team, you can find more information at www.reddit.com/r/tug
